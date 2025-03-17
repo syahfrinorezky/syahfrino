@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@theme {
+  --font-poppins: Poppins, sans-serif;
+  --font-montserrat: Montserrat, sans-serif;
+  --font-bricolage: Bricolage Grotesque, sans-serif;
+
+  --color-primary: #202020;
+  --color-secondary: #fccd2a;
+  --color-tertiary: #252525;
+  --color-quartiary: #eaeaea;
+}
